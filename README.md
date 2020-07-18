@@ -4,7 +4,7 @@
 
 <img align="center" src="https://media1.tenor.com/images/7f7f2882899755a705a2953b6fcfc263/tenor.gif" width="1000" height="200"/>
 
-#### Languages and Tools:
+### Languages and Tools
 
 <p float="left">
   <img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/android/android.png">
@@ -29,8 +29,7 @@
   <img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/aws/aws.png">
 </p>
 
-#### Contact:
-
-##### <img align="left" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />mikeklintonlau@gmail.com
-##### <img align="left" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />https://www.linkedin.com/in/mike14u
-##### <img align="left" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />https://github.com/mike14u
+### Contact
+- <img align="left" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg"/>mikeklintonlau@gmail.com
+- <img align="left" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg"/>https://www.linkedin.com/in/mike14u
+- <img align="left" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg"/>https://github.com/mike14u
