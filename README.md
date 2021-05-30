@@ -1,30 +1,21 @@
-<p align="center">🌟 🌟 🌟 🌟 🌟</p>
+### Hello World <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="24px" alt="hi">
 
-<p align="center">Senior Software Engineer @ <b>PayMaya Philippines</b>. Specializes for <b>Mobile App Development</b>.</p>
+#### I'm a Mobile App Engineer working in Philippines.
 
-<img align="center" src="https://media1.tenor.com/images/7f7f2882899755a705a2953b6fcfc263/tenor.gif" width="1000" height="200"/>
+##### INFO
 
-### Languages and Tools
+- 🏗️ Continuously adapting and working with mobile app: (development, devops and test automation)
+- 💾 Codes that I work with: `.kt`, `.swift`, `.js`
+- 👻 Random quote: *You miss 100% of the shots you don't take.*
+- 👾 Heavily interested on Design Systems, Machine Learning, Ethical Hacking
+- 👽 Currently learning: `.rs`, `.js`, `.kt`, `.swift`, `.py`, `.java`
+- ⚡ Striving to improve my **Chess** skillset.
+- 💬 Ping me about **Mobile Development**, **Android**, **iOS**, **Design**, **Chess**, **Dota 2**
+- 🎮 Fun fact: I play and [coach](https://www.gamersensei.com/senseis/mykz) in Dota 2 and is ranked in Immortal 1000~ division
 
-<p float="left">
-  <img height="25" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/f407f7686f6d083fad15cc2a14752309bf6caaac/images/svg/android.svg">&nbsp;
-  <img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/kotlin/kotlin.png">&nbsp;
-  <img height="25" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/f407f7686f6d083fad15cc2a14752309bf6caaac/images/svg/java.svg">&nbsp;
-  <img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/swift/swift.png">&nbsp;
-  <img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/flutter/flutter.png">&nbsp;
-  <img height="25" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/f407f7686f6d083fad15cc2a14752309bf6caaac/images/svg/python.svg">&nbsp;
-  <img height="25" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/f407f7686f6d083fad15cc2a14752309bf6caaac/images/svg/git.svg">&nbsp;
-  <img height="25" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/f407f7686f6d083fad15cc2a14752309bf6caaac/images/svg/linux.svg">&nbsp;
-  <img height="25" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/f407f7686f6d083fad15cc2a14752309bf6caaac/images/svg/html5.svg">&nbsp;
-  <img height="25" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/f407f7686f6d083fad15cc2a14752309bf6caaac/images/svg/javascript.svg">&nbsp;
-  <img height="25" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/f407f7686f6d083fad15cc2a14752309bf6caaac/images/svg/gradle.svg">&nbsp;
-  <img height="25" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/f407f7686f6d083fad15cc2a14752309bf6caaac/images/svg/amazon.svg">&nbsp;
-  <img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png">&nbsp;
-  <img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png">&nbsp;
-  <img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/azure/azure.png">&nbsp;
-</p>
+##### CONTACT
 
-### Contact
-- <img align="left" width="22px" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/f407f7686f6d083fad15cc2a14752309bf6caaac/images/svg/gmail.svg"/>mikeklintonlau@gmail.com
-- <img align="left" width="22px" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/f407f7686f6d083fad15cc2a14752309bf6caaac/images/svg/linkedin.svg"/>https://www.linkedin.com/in/mike14u
-- <img align="left" width="22px" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/f407f7686f6d083fad15cc2a14752309bf6caaac/images/svg/github.svg"/>https://github.com/mike14u
+- 📧 Email: [mikeklintonlau@gmail.com](mailto:mikeklintonlau@gmail.com)
+- 🌏 Website: [mikelau.ml](https://mikelau.ml)
+- 🐤 Twitter: [@mike14u](https://twitter.com/mike14u)
+- 💼 Linkedin: [mike14u](https://www.linkedin.com/in/mike14u)
